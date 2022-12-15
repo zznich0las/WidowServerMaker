@@ -18,7 +18,7 @@ else
     exit
 fi
 echo ""
-echo "νєяѕιση 1.0 | ¢σ∂єηαмє ωι∂σω"
+echo "νєяѕιση 1.1 | ¢σ∂єηαмє ωι∂σω"
 echo ""
 echo "What νєяѕιση would you like to use? (example: 1.12.2)"
 read version
