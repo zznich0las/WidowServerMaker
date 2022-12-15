@@ -6,7 +6,7 @@ I will repeat myself, because this is a very simple script, please don't blame m
 # How to install
 Just run this command.
 ```bash
-wget https://raw.githubusercontent.com/NicoloIlSup3r/WidowServerMaker/main/latest && chmod +x latest && ./latest
+wget https://raw.githubusercontent.com/zznich0las/WidowServerMaker/main/latest.sh && chmod +x latest.sh && ./latest.sh
 ```
 
 # Bug fixes
