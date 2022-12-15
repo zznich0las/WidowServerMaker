@@ -59,7 +59,7 @@ read javav
 sudo apt install openjdk-$javav-jre -y
 clear
 echo "Java installed! Creating start.sh ..."
-echo "java -Xmx"$ram"M -Xms"$ramM" -jar spigot-"$version".jar nogui" > start.sh
+echo "java -Xmx"$ram"M -Xms"$ram"M -jar spigot-"$version".jar nogui" > start.sh
 echo "File created.. chmodding in progress"
 chmod +x start.sh
 echo "Chmodded succesfully!"
