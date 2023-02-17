@@ -1,6 +1,6 @@
 # WidowServerMaker
 This is a very simple, yet useful .sh file.
-Raccomended for beginners with Linux and Minecraft Server Creation.
+Reccomended for beginners with Linux and Minecraft Server Creation.
 I will repeat myself, because this is a very simple script, please don't blame me for making this, Thank you <3
 
 # How to install
